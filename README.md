@@ -1,4 +1,4 @@
-![screenshot](https://github.com/jotttt/ArduinoMonokaiTheme/master/arduinoMonokaiScreen.png)
+![screenshot](https://github.com/jotttt/ArduinoMonokaiTheme/arduinoMonokaiScreen.png)
 # Monokai Arduino Theme
 ================
 
