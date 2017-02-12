@@ -1,4 +1,4 @@
-![screenshot](https://raw.github.com/jotttt/ArduinoMonokaiTheme/ArduinoMonokaiScreen.png)
+![screenshot]((https://raw.github.com/jotttt/ArduinoMonokaiTheme/ArduinoMonokaiScreen.png)
 # Monokai Arduino Theme
 ================
 
@@ -11,7 +11,7 @@ There are not enough system variables to make it exact, but it's much better tha
 1. **PREFERENCES.TXT**  
 On Windows, located here: `%AppData%\Roaming\Arduino` replace your `preferences.txt` with mine.
 2. **THEME FOLDER**  
-On Windows, located here: `..\arduino-15\lib\` replace the `theme` folder inside (making a copy of the original in case you hate my changes!)
+On Windows, located here: `..\Arduino\lib\` replace the `theme` folder inside (making a copy of the original in case you hate my changes!)
 This folder contains a 'themes.txt' file with the bulk of the changes (mostly colors).  Buttons and tabs are stored as image files, which have been modified to fit the color scheme
 
 \- \- \-
@@ -20,4 +20,5 @@ This folder contains a 'themes.txt' file with the bulk of the changes (mostly co
 
 ####CREDITS
 1. Images - Jeff Thompson [https://github.com/jeffThompson/DarkArduinoTheme](https://github.com/jeffThompson/DarkArduinoTheme)
-2. Monokai Styling (Theme.txt, Preferences.txt) - Technobly [https://github.com/technobly/MonokaiArduinoTheme](https://github.com/technobly/MonokaiArduinoTheme)
+2. Monokai Styling bases (Theme.txt, Preferences.txt) - Technobly [https://github.com/technobly/MonokaiArduinoTheme](https://github.com/technobly/MonokaiArduinoTheme)
+3. Monokai Styling compatibility updated to 1.8.1 (Theme.txt, Preferences.txt) - jotttt [https://github.com/jotttt/ArduinoMonokaiTheme](https://github.com/jotttt/ArduinoMonokaiTheme)
